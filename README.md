@@ -1,11 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Developers & Traders House
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Full-Stack%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Software%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Soware+Engineer+in+Progress;Building+Secure+Systems;Forex+Trader+(XAUUSD);Creative+Graphics+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer+in+Progress;Building+Secure+Systems;Forex+Trader+(XAUUSD);Creative+Graphics+Designer" alt="Typing SVG" />
 </p>
 
 ---
