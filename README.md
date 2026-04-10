@@ -57,7 +57,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact Me with
 <p align="center">
   <a href="https://t.me/Miko_Night_Man">
     <img src="https://img.shields.io/badge/Telegram-Mikael-blue?style=for-the-badge&logo=telegram" />
