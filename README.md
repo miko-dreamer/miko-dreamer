@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Hey, I'm Mikael Alemayhu
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Cybersecurity+Student;Software+Developer;Gold+(XAUUSD)+Trader;Graphic+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Cybersecurity+Student;Software+Developer;Gold+(XAUUSD)+Trader;Graphic+Designer;C%2B%2B+%26+PHP+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,11 +11,11 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 <b>Education:</b> 3rd Year Software Engineering Student</li>
+        <li>🎓 <b>Education:</b> 2nd Year Cybersecurity Student</li>
         <li>💻 <b>Current Project:</b> Student Grading System (JavaFX & MySQL)</li>
         <li>📈 <b>Trading:</b> Technical Analyst in XAUUSD</li>
         <li>🎨 <b>Creative:</b> Professional Graphic Designer</li>
-        <li>🛡️ <b>Interest:</b> Network Security & Ethical Hacking</li>
+        <li>🛡️ <b>Focus:</b> Secure Web Development & Network Defense</li>
       </ul>
     </td>
     <td width="40%">
@@ -26,23 +26,30 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack (Animated Icons)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,mysql,linux,git,figma,ps,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,php,py,html,css,js,mysql,linux,git,figma,ps,vscode,github&theme=dark" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 Activity & Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miko-dreamer&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miko-dreamer&show_icons=true&theme=radical&rank_icon=github" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miko-dreamer&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miko-dreamer&theme=tokyonight" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miko-dreamer&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
@@ -59,5 +66,5 @@
 
 ---
 <p align="center">
-  <i>"Securing the digital world, one commit at a time."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
