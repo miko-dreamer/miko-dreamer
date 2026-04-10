@@ -26,27 +26,21 @@
 
 ---
 
-### 🛠 My Tech Stack
+### 🛠 My Tech Stack (Animated)
 
 #### 🌐 Programming & Scripting Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,php,py,js,html,css&perline=7" width="320px" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,cpp,php,py,js,html,css&perline=7" />
 </p>
 
 #### 🗄️ Database & Backend
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=2" width="100px" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=2" />
 </p>
 
 #### 🔧 Tools & Platforms
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,ps&perline=6" width="280px" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,ps&perline=6" />
 </p>
 
 ---
