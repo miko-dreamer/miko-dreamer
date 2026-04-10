@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Mikael's Developer Hub
+# <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Mikael's Code House
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Full-Stack%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Software%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
