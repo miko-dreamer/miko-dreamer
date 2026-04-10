@@ -31,21 +31,21 @@
 #### 🌐 Programming & Scripting Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,php,py,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,php,py,js,html,css&perline=7" width="320px" />
   </a>
 </p>
 
 #### 🗄️ Database & Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=2" width="100px" />
   </a>
 </p>
 
 #### 🔧 Tools & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,ps&perline=6" width="280px" />
   </a>
 </p>
 
