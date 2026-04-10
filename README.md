@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://miko-dreamer.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO-FFA500?style=for-the-badge&logo=rocket&logoColor=black" />
+    <img src="https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO-FFD700?style=for-the-badge&logo=rocket&logoColor=000000" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/Telegram-Mikael-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:mikaelalemayhu7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
