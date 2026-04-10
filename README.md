@@ -26,10 +26,26 @@
 
 ---
 
-### 🛠 Tech Stack (Animated Icons)
+### 🛠 My Tech Stack
+
+#### 🌐 Programming & Scripting Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,php,py,html,css,js,mysql,linux,git,figma,ps,vscode,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,php,py,js,html,css" />
+  </a>
+</p>
+
+#### 🗄️ Database & Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  </a>
+</p>
+
+#### 🔧 Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,ps" />
   </a>
 </p>
 
@@ -47,7 +63,7 @@
 
 ---
 
-### 🐍 Contribution Snake (Animated)
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
