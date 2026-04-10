@@ -1,76 +1,57 @@
-# <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Hey, I'm Mikael Alemayhu
+# <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Mikael's Digital Space
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Cybersecurity+Student;Software+Developer;Gold+(XAUUSD)+Trader;Graphic+Designer;C%2B%2B+%26+PHP+Enthusiast" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>🎓 <b>Education:</b> 2nd Year Cybersecurity Student</li>
-        <li>💻 <b>Current Project:</b> Student Grading System (JavaFX & MySQL)</li>
-        <li>📈 <b>Trading:</b> Technical Analyst in XAUUSD</li>
-        <li>🎨 <b>Creative:</b> Professional Graphic Designer</li>
-        <li>🛡️ <b>Focus:</b> Secure Web Development & Network Defense</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miko-dreamer&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 My Tech Stack (Auto-Animated)
-
-#### 🌐 Programming & Scripting
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,php,py,js,html,css&theme=dark" />
-</p>
-
-#### 🗄️ Database & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
-</p>
-
-#### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,ps&theme=dark" />
-</p>
-
----
-
-### 📉 Activity & Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miko-dreamer&show_icons=true&theme=radical&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miko-dreamer&theme=radical" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2196F3&text=Cybersecurity%20%7C%20Software%20Dev%20%7C%20Trader&fontSize=30&animation=fadeIn" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake (Always Moving)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miko-dreamer/miko-dreamer/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</p>
+### 🚀 Quick Glance
+- 🛡️ **Cybersecurity:** Studying network defense and ethical hacking.
+- 🏗️ **Building:** JavaFX-based Student Grading System.
+- 💹 **Markets:** Charting Gold (XAUUSD) for the next big move.
+- 🐘 **PHP & C++:** Crafting efficient backend logic.
 
 ---
 
-### 📫 Let's Connect
+### 🛠 Tech Stack Explorer
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![](https://skillicons.dev/icons?i=java,cpp,php,py,js,html,css) |
+| **Backend** | ![](https://skillicons.dev/icons?i=mysql,firebase) |
+| **Tools** | ![](https://skillicons.dev/icons?i=linux,git,github,vscode,figma,ps) |
+
+---
+
+### ⚡ Fun Dev Fact
 <p align="left">
-<a href="https://t.me/Miko_Night_Man" target="blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
-</a>
-<a href="mailto:mikaelalemayhu7@gmail.com" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-</a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 ---
+
+### 📈 GitHub Ecosystem
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miko-dreamer&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miko-dreamer&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miko-dreamer&theme=tokyonight" width="100%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+<p align="center">
+  <a href="https://t.me/Miko_Night_Man">
+    <img src="https://img.shields.io/badge/Telegram-Mikael-blue?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="mailto:mikaelalemayhu7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" />
 </p>
