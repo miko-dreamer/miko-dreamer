@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Mikael's Code House
+# <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Mikael's Developer Hub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Software%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Full-Stack%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -12,6 +12,13 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer+in+Progress;Building+Secure+Systems;Forex+Trader+(XAUUSD);Creative+Graphics+Designer" alt="Typing SVG" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miko-dreamer&theme=vision-friendly-dark&no-bg=true&margin-w=4" alt="miko-dreamer" />
 </p>
 
 ---
@@ -33,7 +40,7 @@
 
 ### 🎨 & 📊 Additional Expertise
 - 📈 **Forex Trading:** Technical Analyst specialized in **Gold (XAUUSD)** using price action and strategy.
-- 🎨 **Graphics Design:** Visual Artist creating professional branding, UI layouts, and digital assets.
+- 🎨 **Graphics Designer:** Visual Artist creating professional branding, UI layouts, and digital assets.
 
 ---
 
@@ -51,10 +58,14 @@
 
 ---
 
-### 📈 Dev Progress & Stats
+### 📊 Activity & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miko-dreamer&show_icons=true&theme=vision-friendly-dark&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miko-dreamer&layout=compact&theme=vision-friendly-dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miko-dreamer&theme=vision-friendly-dark" width="100%" />
 </p>
 
 ---
