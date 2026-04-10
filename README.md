@@ -1,7 +1,13 @@
-# <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Developers & Traders House
+# <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Mikael's Developer Hub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Software%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Full-Stack%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <a href="https://miko-dreamer.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -44,20 +50,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miko-dreamer&layout=compact&theme=vision-friendly-dark" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miko-dreamer&theme=vision-friendly-dark" width="100%" />
-</p>
-
 ---
 
-### 🐍 The Code Journey (Animated Snake)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miko-dreamer/miko-dreamer/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</p>
-
----
-
-### 📫 Contact Me with
+### 📫 Connect with Me
 <p align="center">
   <a href="https://t.me/Miko_Night_Man">
     <img src="https://img.shields.io/badge/Telegram-Mikael-blue?style=for-the-badge&logo=telegram" />
