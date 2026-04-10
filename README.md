@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Developers & Traders House
+# <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Mikael's Developer Hub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Softwarek%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Full-Stack%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -12,6 +12,13 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineer+in+Progress;Building+Secure+Systems;Forex+Trader+(XAUUSD);Creative+Graphics+Designer" alt="Typing SVG" />
+</p>
+
+---
+
+### 💬 Daily Inspiration
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" alt="Daily Quote" />
 </p>
 
 ---
@@ -32,7 +39,7 @@
 
 ### 🛠 Tech Arsenal
 
-#### 💻 Programming Languages (Primary Focus)
+#### 💻 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cpp,php,py,js,html,css&perline=7" />
 </p>
@@ -52,7 +59,7 @@
 
 ---
 
-### 📫 Contact Me with
+### 📫 Connect with Me
 <p align="center">
   <a href="https://t.me/Miko_Night_Man">
     <img src="https://img.shields.io/badge/Telegram-Mikael-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
