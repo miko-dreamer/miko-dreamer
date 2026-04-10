@@ -26,40 +26,36 @@
 
 ---
 
-### 🛠 My Tech Stack (Animated)
+### 🛠 My Tech Stack (Auto-Animated)
 
-#### 🌐 Programming & Scripting Languages
+#### 🌐 Programming & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,php,py,js,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,php,py,js,html,css&theme=dark" />
 </p>
 
 #### 🗄️ Database & Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase&perline=2" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark" />
 </p>
 
 #### 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,ps&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,ps&theme=dark" />
 </p>
 
 ---
 
-### 📈 Activity & Statistics
+### 📉 Activity & Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miko-dreamer&show_icons=true&theme=radical&rank_icon=github" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miko-dreamer&theme=radical" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miko-dreamer&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
-</p>
-
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake (Always Moving)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/miko-dreamer/miko-dreamer/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
@@ -76,5 +72,5 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" />
 </p>
