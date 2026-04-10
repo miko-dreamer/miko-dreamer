@@ -1,12 +1,12 @@
 # <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="35px"> Mikael's Developer Hub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Software%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2196F3&height=150&section=header&text=Full-Stack%20Developer&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
   <a href="https://miko-dreamer.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀_VIEW_MY_PORTFOLIO-FFA500?style=for-the-badge&logo=rocket&logoColor=black" />
   </a>
 </p>
 
@@ -55,10 +55,10 @@
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://t.me/Miko_Night_Man">
-    <img src="https://img.shields.io/badge/Telegram-Mikael-blue?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Mikael-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:mikaelalemayhu7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
