@@ -52,7 +52,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact Me with
 <p align="center">
   <a href="https://t.me/Miko_Night_Man">
     <img src="https://img.shields.io/badge/Telegram-Mikael-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
